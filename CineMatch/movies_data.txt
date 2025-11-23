@@ -1,0 +1,4 @@
+101|Avatar: Way of Water|150.0|43
+102|Oppenheimer|170.0|26
+103|SpiderMan: No Way Home|160.0|47
+104|Inception|120.0|25

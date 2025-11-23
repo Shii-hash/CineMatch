@@ -1,0 +1,1 @@
+User: hsh | Movie: Avatar: Way of Water | Tix: 3 | Total: Rs. 450.0User: shia | Movie: SpiderMan: No Way Home | Tix: 50 | Total: Rs. 8000.0User: shi | Movie: SpiderMan: No Way Home | Tix: 3 | Total: Rs. 480.0User: ahik | Movie: Avatar: Way of Water | Tix: 2 | Total: Rs. 300.0
